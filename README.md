@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Used few Machine Learning Algorithms
+Used KNN and Decision Tree Classifier Algorithms
